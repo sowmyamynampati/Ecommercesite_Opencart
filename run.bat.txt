@@ -1,0 +1,3 @@
+cd C:\SowmyaWorkspace\Ecommercesite_Opencart
+
+mvn test
